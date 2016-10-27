@@ -1,11 +1,12 @@
-#! /bin/bash
+﻿#! /bin/bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 
 install_path=/fs/
-#有偿技术服务，联系QQ:1151866426  
-package_download_url=http://finalspeed.org/fs/finalspeed_server.zip
+#_(눈_ 눈」∠)_  
+package_download_url=https://raw.githubusercontent.com/lcyenter/fs/master/finalspeed_server.zip
+
 package_save_name=finalspeed_server.zip
  
 function checkjava(){
